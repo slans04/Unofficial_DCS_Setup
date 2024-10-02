@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PAge2
 layout: home
 ---
 
