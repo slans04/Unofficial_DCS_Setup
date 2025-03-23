@@ -8,9 +8,7 @@ nav_order: 2
 1. TOC
 {:toc}
 
-# Diagnostic tools
-
-## Using log files
+# Using log files
 
 Your crashlogs, `dcs.log-12345678-123456.zip`, (`C:\Users\<user>\Saved Games\DCS\Logs`) files are generated when you game crashes, and includes additional data. Find a crashlog that was generated at the time your game crashed (replicate the crash if you need to be sure).
 
@@ -24,7 +22,7 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 
 > Of course, the official Eagle Dynamics support can be reached either by [creating a ticket](https://www.digitalcombatsimulator.com/en/support/), or by emailing them at `support@digitalcombatsimulator.com` or `eagledynamics.service@gmail.com`.
 
-## Using DxDiag reports
+# Using DxDiag reports
 
 Sometimes a log from the game isn't enough; the game may fail to realise it's crashing or the crash might be totally unrelated to the game. The `DxDiag.txt` can be generated in order to share more in-depth diagnostic  information regarding the device with others, including a small portion of the Windows Error Reporting. This in particular can be used to hone in on other issues with the device that may be affecting the game negatively.
 
