@@ -33,7 +33,11 @@ If you're still recieving this error after synchronising, ask Google "what time 
 
 ## Other error codes
 
+Error codes such as 203 may occur for various reasons, but you can attempt to fix them by flushing you DNS, and changing your DNS server to ones that are more likely to be up-to-date.
 
+To flush your DNS, open "Command Prompt" (`cmd.exe`), and run the command `ipconfig /flushdns`.
+
+A good DNS server to use would be `8.8.8.8`, with the alternate set to `8.8.4.4`. These are Google's Public DNS servers.
 
 # Game is running badly
 
