@@ -61,6 +61,9 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 > Of course, the official Eagle Dynamics support can be reached either by [creating a ticket](https://www.digitalcombatsimulator.com/en/support/), or by emailing them at `support@digitalcombatsimulator.com` or `eagledynamics.service@gmail.com`.
 
 ### Common identifiable crashes
+<details>
+  <summary>Aircraft mods</summary>
+  
 ```
 ERROR   APP (Main): Stack trace:
 INFO    EDCORE (Main): try to write dump information
@@ -87,7 +90,7 @@ INFO    EDCORE (Main): 0x00000000026109fc (DCS): AmdPowerXpressRequestHighPerfor
 INFO    EDCORE (Main): 0x00000000010a64be (DCS): SW + 0xA9019E
 INFO    EDCORE (Main): 0x000000000002e8d7 (KERNEL32): BaseThreadInitThunk + 0x17
 ```
-
+</details>
 
 
 ## Typical troubleshooting path
