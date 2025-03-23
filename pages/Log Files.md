@@ -24,7 +24,7 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 
 # Using DxDiag reports
 
-Sometimes a log from the game isn't enough; the game may fail to realise it's crashing or the crash might be totally unrelated to the game. The `DxDiag.txt` can be generated in order to share more in-depth diagnostic  information regarding the device with others, including a small portion of the Windows Error Reporting. This in particular can be used to hone in on other issues with the device that may be affecting the game negatively.
+Sometimes a log from the game isn't enough; the game may fail to realise it's crashing or the crash might be totally unrelated to the game. The `DxDiag.txt` can be generated in order to share more in-depth diagnostic  information regarding the device with others, including a small portion of the Windows Error Reporting. This in particular can be used to hone in on other issues with the device such as bluescreens.
 
 These are often included automatically in crashlogs (`dcs.log-12345678-123456.zip`).
 
