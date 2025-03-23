@@ -12,7 +12,7 @@ nav_order: 2
 
 Your crashlogs, `dcs.log-12345678-123456.zip`, (`C:\Users\<user>\Saved Games\DCS\Logs`) files are generated when you game crashes, and includes additional data. Find a crashlog that was generated at the time your game crashed (replicate the crash if you need to be sure).
 
-If you can't find your `Saved Games` folder, you can type `shell:savedgames` into either the address bar of your File Explorer, or the "Run" function (LWin+R).
+> If you can't find your `Saved Games` folder, you can type `shell:savedgames` into either the address bar of your File Explorer, or the "Run" function (LWin+R).
 
 If it seems to be failing to generate a proper crashlog then the file `dcs.log` records data about your last session, provided you haven't re-opened the game since the crash occurred. If you have file extensions hidden, your `dcs.log` will instead simply be called `dcs`, for example.
 
