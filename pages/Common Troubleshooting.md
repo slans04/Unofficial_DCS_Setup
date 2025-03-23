@@ -63,7 +63,6 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 ### Common identifiable crashes
 
 <details>
-  
   <summary>Aircraft mods</summary>
   
 ```
@@ -92,7 +91,6 @@ INFO    EDCORE (Main): 0x00000000026109fc (DCS): AmdPowerXpressRequestHighPerfor
 INFO    EDCORE (Main): 0x00000000010a64be (DCS): SW + 0xA9019E
 INFO    EDCORE (Main): 0x000000000002e8d7 (KERNEL32): BaseThreadInitThunk + 0x17
 ```
-
 </details>
 
 
