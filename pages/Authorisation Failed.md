@@ -2,7 +2,7 @@
 title: Authorisation Failed, DLC Disabled
 layout: home
 parent: Common Troubleshooting
-nav_order: 4
+nav_order: 1
 ---
 
 1. TOC
