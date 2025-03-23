@@ -54,6 +54,12 @@ Your crashlogs, `dcs.log-12345678-123456.zip`, (`C:\Users\<user>\Saved Games\DCS
 
 You can read the log manually if you wish, but this may be difficult since the log contains many red-herrings (things that look bad, but are actually normal). If you do try this, look for the start of the stack trace, indicated by the line `ERROR   APP (Main): Stack trace:`; this is where the game realised it had crashed and decided to store as much information as it could.
 
+The [Official "DCS by Eagle Dynamics" Discord server](https://discord.gg/YtZZwkxz) has a [log-analyser](https://discord.com/channels/542985647502393346/1179171301651402802) channel, in which Special K's bot operates and can assist with troubleshooting and can provide other technical advice. In fact, you wouldn't be reading this if it wasn't for their dedication.
+
+If you find yourself stuck, despite this guide, you're welcome to ask for pointers in the [help-room](https://discord.com/channels/542985647502393346/551106084157390874) on that same Discord server.
+
+> Of course, the official Eagle Dynamics support can be reached either by [creating a ticket](https://www.digitalcombatsimulator.com/en/support/), or by emailing them at `support@digitalcombatsimulator.com` or `eagledynamics.service@gmail.com`.
+
 ### Common identifiable crashes
 ```
 ERROR   APP (Main): Stack trace:
