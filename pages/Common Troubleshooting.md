@@ -61,7 +61,9 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 > Of course, the official Eagle Dynamics support can be reached either by [creating a ticket](https://www.digitalcombatsimulator.com/en/support/), or by emailing them at `support@digitalcombatsimulator.com` or `eagledynamics.service@gmail.com`.
 
 ### Common identifiable crashes
+
 <details>
+  
   <summary>Aircraft mods</summary>
   
 ```
