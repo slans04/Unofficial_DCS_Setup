@@ -24,6 +24,8 @@ If you find yourself stuck, despite this guide, you're welcome to ask for pointe
 
 > Of course, the official Eagle Dynamics support can be reached either by [creating a ticket](https://www.digitalcombatsimulator.com/en/support/), or by emailing them at `support@digitalcombatsimulator.com` or `eagledynamics.service@gmail.com`.
 
+## No log files generated?
+
 # Using DxDiag reports
 
 Sometimes a log from the game isn't enough; the game may fail to realise it's crashing or the crash might be totally unrelated to the game. The `DxDiag.txt` can be generated in order to share more in-depth diagnostic  information regarding the device with others, including a small portion of the Windows Error Reporting. This in particular can be used to hone in on other issues with the device such as bluescreens.
