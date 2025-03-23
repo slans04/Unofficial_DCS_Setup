@@ -1,3 +1,13 @@
+---
+title: Authorisation Failed, DLC Disabled
+layout: home
+parent: Common Troubleshooting
+nav_order: 4
+---
+
+1. TOC
+{:toc}
+
 # Authorisation Failed, DLC Disabled
 
 ## No numerical error codes
